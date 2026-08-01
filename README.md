@@ -83,7 +83,7 @@ Customer Churn Prediction/
 
 ### Power BI Dashboard
 
-![Dashboard](Images/churn_dashboard.png)
+![Dashboard](Images/Churn_dashboard.png)
 
 ---
 
