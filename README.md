@@ -83,25 +83,24 @@ Customer Churn Prediction/
 
 ### Power BI Dashboard
 
-![Dashboard](Images/Churn_dashboard.png)
+![Dashboard](Customer%20Churn%20prediction/Images/Churn_Dashboard.png)
 
 ---
 
 ## Customer Churn Distribution
 
-![Customer Churn Distribution](Images/churn_distribution.png)
-
+![Customer Churn Distribution](Customer%20Churn%20prediction/Images/churn_distribution.png)
 ---
 
 ## Confusion Matrix
 
-![Confusion Matrix](Images/confusion_matrix.png)
+![Confusion Matrix](Customer%20Churn%20prediction/Images/confusion_matrix.png)
 
 ---
 
 ## Feature Importance
 
-![Feature Importance](Images/feature_importance.png)
+![Feature Importance](Customer%20Churn%20prediction/Images/feature_importance.png)
 
 ---
 
