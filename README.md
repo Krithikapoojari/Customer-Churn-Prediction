@@ -103,6 +103,18 @@ Customer Churn Prediction/
 ![Feature Importance](Customer%20Churn%20prediction/Images/feature_importance.png)
 
 ---
+## Machine Learning Dashboard
+
+![Machine Learning Dashboard](Customer%20Churn%20prediction/Images/ML_Dashboard.png)
+## Business Questions Answered
+
+- How many customers are predicted to churn?
+- What is the overall predicted churn rate?
+- Which contract type has the highest predicted churn?
+- Does customer gender influence churn?
+- How does internet service type affect customer churn?
+- What are the key factors influencing customer churn?
+- How accurately does the machine learning model predict churn?
 
 ## Results
 
