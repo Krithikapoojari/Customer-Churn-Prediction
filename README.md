@@ -105,7 +105,7 @@ Customer Churn Prediction/
 ---
 ## Machine Learning Dashboard
 
-![Machine Learning Dashboard](Customer%20Churn%20prediction/Images/ML_Dashboard.png)
+![Machine Learning Dashboard](Customer%20Churn%20prediction/Images/ML_dashboard.png)
 ## Business Questions Answered
 
 - How many customers are predicted to churn?
